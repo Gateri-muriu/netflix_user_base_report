@@ -190,6 +190,6 @@ iii. The number of males and females are equal in terms of Netflix subscription.
 iv. The country with the highest revenue is United State and the country with highest average revenue is United Kingdom.
 
 # Closing Thoughts
-This project enhanced my skills and provided valuable insights into data science job market. The findings from the analysis guide to prioritizing skills development and search efforts..
+This project enhanced my skills and provided valuable insights into data science job market. The findings from the analysis guide to prioritizing skills development and search efforts.
 
 
